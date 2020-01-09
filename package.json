@@ -8,6 +8,7 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "build:android": "yarn config:production && expo build:android",
+    "build:ios": "yarn config:production && expo build:ios",
     "web": "expo start --web",
     "eject": "expo eject"
   },

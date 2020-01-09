@@ -1,11 +1,7 @@
 import styled, { css } from 'styled-components/native';
 import { Platform } from 'react-native';
 
-export const ContainerScroll = styled.ScrollView``;
-
-export const Container = styled.ScrollView`
-  flex: 1;
-`;
+export const Container = styled.ScrollView``;
 
 export const ProfileBackground = styled.ImageBackground`
   width: undefined;
