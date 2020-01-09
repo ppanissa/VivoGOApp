@@ -1,0 +1,22 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+package-json.lock
+yarn-error.log
+
+# Configs Env
+config/default.json
+config/development.json
+config/production.json
+config/development-local.json
+
+# macOS
+.DS_Store
